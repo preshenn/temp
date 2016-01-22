@@ -24,3 +24,4 @@ To run the application:
 5. There is already a command/bat file in the release folder. One may execute 
    this command(*.cmd) file to run the exe. The file names are included in the 
    command file.
+6. The command file name is "call tlf.cmd". Please run this.
