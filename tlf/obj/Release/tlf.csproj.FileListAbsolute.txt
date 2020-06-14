@@ -1,5 +1,0 @@
-C:\Users\pnaidoo\Documents\Visual Studio 2015\Projects\tlf\bin\Release\tlf.exe.config
-C:\Users\pnaidoo\Documents\Visual Studio 2015\Projects\tlf\bin\Release\tlf.exe
-C:\Users\pnaidoo\Documents\Visual Studio 2015\Projects\tlf\bin\Release\tlf.pdb
-C:\Users\pnaidoo\Documents\Visual Studio 2015\Projects\tlf\obj\Release\tlf.exe
-C:\Users\pnaidoo\Documents\Visual Studio 2015\Projects\tlf\obj\Release\tlf.pdb

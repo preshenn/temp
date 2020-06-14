@@ -1,5 +1,0 @@
-c:\users\pnaidoo\documents\visual studio 2015\Projects\tlf\bin\Debug\tlf.exe.config
-c:\users\pnaidoo\documents\visual studio 2015\Projects\tlf\bin\Debug\tlf.exe
-c:\users\pnaidoo\documents\visual studio 2015\Projects\tlf\bin\Debug\tlf.pdb
-c:\users\pnaidoo\documents\visual studio 2015\Projects\tlf\obj\Debug\tlf.exe
-c:\users\pnaidoo\documents\visual studio 2015\Projects\tlf\obj\Debug\tlf.pdb
